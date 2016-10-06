@@ -1,0 +1,16 @@
+{
+  "name": "flow-xstream-def",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test_xstream.js",
+  "scripts": {
+    "start": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-react": "^6.16.0",
+    "xstream": "^6.4.1"
+  }
+}
